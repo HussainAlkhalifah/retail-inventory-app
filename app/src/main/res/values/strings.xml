@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="title_activity_adding">AddingActivity</string>
+    <string name="empty_defult">There are no products</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="add_product">Add a new product</string>
+    <string name="edit_product">Edit product</string>
+    <string name="delete_msg">Are you sure you want to delete?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all">Delete all products</string>
+
+</resources>
